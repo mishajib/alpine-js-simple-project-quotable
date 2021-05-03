@@ -1,0 +1,1 @@
+# This is a simple alpine js project which is get quote and author from external api.
